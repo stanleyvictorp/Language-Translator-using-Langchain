@@ -1,4 +1,5 @@
-Link : https://www.youtube.com/watch?v=GV5H_TZCRY8&t=5s
+Link: https://www.youtube.com/watch?v=GV5H_TZCRY8&t=5s
+
 Language Translator with LangChain, FastAPI, and Groq
 Welcome to the Language Translator project! This repository contains the code for a powerful language translation application built using LangChain, FastAPI, and Groq. The project demonstrates the seamless integration of these cutting-edge technologies to deliver efficient and accurate real-time translations.
 
